@@ -1,4 +1,4 @@
-# Selenium-Python-Example
+# Ssearch-automation-with-selenium
 
 This repository contains the base setup of an UI testing project,
 using Python, Selenium Webdriver and Page Object Model pattern.
